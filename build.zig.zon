@@ -1,0 +1,14 @@
+.{
+    .name = .zigtui,
+    .version = "0.1.0",
+    .fingerprint = 0x1c76c141484f9e53,
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+    },
+}
